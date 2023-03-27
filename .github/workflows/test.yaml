@@ -5,6 +5,7 @@ on: workflow_dispatch
 jobs:
   test:
     # где заускаем
+    #ggg
     runs-on: ubuntu-latest
     # что делаем
     steps:
